@@ -1,1 +1,1 @@
-# speech-song
+# speech/song emotion detector project
